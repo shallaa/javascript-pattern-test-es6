@@ -1,0 +1,1 @@
+# javascript-pattern-test-es6
